@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+Disallow: /internal/
+
+# Sitemap location
+Sitemap: https://dsc123.netlify.app/sitemap.xml
